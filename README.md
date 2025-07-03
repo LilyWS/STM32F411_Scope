@@ -5,7 +5,8 @@ Signal conditioning phase consists of a voltage divider, diodes to clamp power t
 I am interested in adding support for negative voltages through a dc bias to signals. I have yet to test the oscilliscopes capabilities thoroughly although it appears it's unable to accurately determine frequency past 150kHz or so.
 
 The rightmost bread board is just a 555 for testing purposes. The middle one contains the signal condition phase and button inputs (which are still rather bouncy). 
-The left most connects the STM32 to the screen, an ILI9488. The screen is rather slow to refresh, definetly not the best choice for this project. I regret powering the screen from the F411 as the power rails are rather inconsistent now (hence the need for reading Vrefint to infer true power voltage). I am interested in power them separetly in the future. 
+The left most connects the STM32 to the screen, an ILI9488. 
+The screen is rather slow to refresh, definetly not the best choice for this project. I regret powering the screen from the F411 as the power rails are rather inconsistent now (hence the need for reading Vrefint to infer true power voltage). I am interested in powering them separately in the future. 
 
 ![IMG_3269](https://github.com/user-attachments/assets/2417fd9c-2287-414c-98d7-f8bc23083772)
 ![IMG_3268](https://github.com/user-attachments/assets/c0b5c635-a361-4ef4-89e5-ff83ad5119aa)
