@@ -11,3 +11,5 @@ The screen is rather slow to refresh, definetly not the best choice for this pro
 ![IMG_3269](https://github.com/user-attachments/assets/2417fd9c-2287-414c-98d7-f8bc23083772)
 ![IMG_3268](https://github.com/user-attachments/assets/c0b5c635-a361-4ef4-89e5-ff83ad5119aa)
 
+![IOC](https://github.com/user-attachments/assets/468c2dde-9f9d-4760-8e9b-34a5dcbabdb9)
+![Clock](https://github.com/user-attachments/assets/519a8c44-f923-41b5-92d6-90d6a549c380)
