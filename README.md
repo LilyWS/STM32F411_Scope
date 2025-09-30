@@ -14,7 +14,7 @@ The KiCad project folder for the PCB is the folder name Oscilliscope.
 ![IMG_3268](https://github.com/user-attachments/assets/c0b5c635-a361-4ef4-89e5-ff83ad5119aa)
 
 <img width="1218" height="818" alt="image" src="https://github.com/user-attachments/assets/0be5b9b4-5f8f-4d4c-a0bb-e1cc9cbf1648" />
-<img width="1293" height="754" alt="image" src="https://github.com/user-attachments/assets/d9c7251e-e52e-44ce-a569-7300172bc96c" />
+<img width="1267" height="736" alt="image" src="https://github.com/user-attachments/assets/f1131e57-2128-499a-a03c-d595808a5e01" />
 
 
 ![IOC](https://github.com/user-attachments/assets/468c2dde-9f9d-4760-8e9b-34a5dcbabdb9)
